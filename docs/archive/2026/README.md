@@ -1,16 +1,16 @@
 ## Archive 2026
-> 888 papers
+> 943 papers
 
 |Keyword|Papers|
 |---|---|
-|[SLAM](./SLAM.md)|201|
-|[SFM](./SFM.md)|124|
-|[Visual Localization](./Visual-Localization.md)|195|
-|[Keypoint Detection](./Keypoint-Detection.md)|43|
-|[Image Matching](./Image-Matching.md)|67|
-|[NeRF](./NeRF.md)|130|
-|[Gaussian Splatting](./Gaussian-Splatting.md)|30|
-|[3D Reconstruction](./3D-Reconstruction.md)|30|
-|[World Model](./World-Model.md)|38|
-|[VLA and VLN](./VLA-and-VLN.md)|30|
+|[SLAM](./SLAM.md)|208|
+|[SFM](./SFM.md)|128|
+|[Visual Localization](./Visual-Localization.md)|199|
+|[Keypoint Detection](./Keypoint-Detection.md)|44|
+|[Image Matching](./Image-Matching.md)|69|
+|[NeRF](./NeRF.md)|133|
+|[Gaussian Splatting](./Gaussian-Splatting.md)|40|
+|[3D Reconstruction](./3D-Reconstruction.md)|35|
+|[World Model](./World-Model.md)|47|
+|[VLA and VLN](./VLA-and-VLN.md)|40|
 

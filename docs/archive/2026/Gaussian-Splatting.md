@@ -1,8 +1,18 @@
 ## Gaussian Splatting (2026)
-> 30 papers, [archive 2026](./README.md)
+> 40 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Plant Orbiter: 3D Plant Reconstruction and Generation with Video Diffusion Orbit Cameras and 3D Gaussian Splatting**|Zane K. J. Hartley et.al.|[2611.12739](http://arxiv.org/abs/2611.12739)|<span class="null">—</span>|
+|**2026-11-09**|**Spaghetti Splatting: Differentiating Curvilinear Dirac Masses via Convolution**|George Shramko et.al.|[2611.12716](http://arxiv.org/abs/2611.12716)|<span class="null">—</span>|
+|**2026-11-09**|**Mitigating SM-Level Load Imbalance in 3D Gaussian Splatting on GPUs**|Junha Ryu et.al.|[2611.12319](http://arxiv.org/abs/2611.12319)|<span class="null">—</span>|
+|**2026-11-09**|**DPGS-SLAM: Diffusion-Prior and Provenance-Aware Monocular Gaussian Splatting SLAM for Dynamic Visual Sensing**|Yifan Luo et.al.|[2611.12038](http://arxiv.org/abs/2611.12038)|<span class="null">—</span>|
+|**2026-11-09**|**UltraVoxelGS: Voxel-First Feed-Forward Gaussian Splatting for 3D Ultrasound Reconstruction**|Yue Wang et.al.|[2611.11951](http://arxiv.org/abs/2611.11951)|**[link](https://github.com/YuebyYue/UltraVoxelGS-camera-ready)**|
+|**2026-11-08**|**Martine: Benchmarking Multi-View 3D Surface Reconstruction Across Viewpoint Coverage, Resolution, and Lighting**|Robin Bruneau et.al.|[2611.11602](http://arxiv.org/abs/2611.11602)|<span class="null">—</span>|
+|**2026-11-08**|**FastGRT: Accelerating Training of 3D Gaussian Ray Tracing**|Meet Banthia et.al.|[2611.11586](http://arxiv.org/abs/2611.11586)|<span class="null">—</span>|
+|**2026-11-07**|**PLS-GS: Probabilistic Lidar Scaffolds for Compact, Surface-Aligned Gaussian Splatting**|Krishnan Harikumar et.al.|[2611.10699](http://arxiv.org/abs/2611.10699)|**[link](https://github.com/k-harikumar/PLS-GS)**|
+|**2026-11-07**|**SHIN: Scalable Hierarchy for INcremental 3D Gaussian Splatting**|Reagan Koo et.al.|[2611.10652](http://arxiv.org/abs/2611.10652)|<span class="null">—</span>|
+|**2026-11-07**|**RefineSplat: Reconstruction-Guided Object-Centric Gaussian Splatting for Open-Vocabulary Querying**|Yiren Lu et.al.|[2611.10379](http://arxiv.org/abs/2611.10379)|<span class="null">—</span>|
 |**2026-11-05**|**MOMASPLAT: Dynamic Novel-View Demonstration Augmentation for Mobile Manipulation**|Sateesh Kumar et.al.|[2611.08372](http://arxiv.org/abs/2611.08372)|<span class="null">—</span>|
 |**2026-11-05**|**InstantHand: Feed-Forward 3D Gaussian Splatting for Animatable Hand Avatar Reconstruction from a Single Image**|Chanho Kim et.al.|[2611.08330](http://arxiv.org/abs/2611.08330)|<span class="null">—</span>|
 |**2026-11-05**|**Hierarchical Incremental Beta Splatting for Online Reconstruction**|Linus Franke et.al.|[2611.08288](http://arxiv.org/abs/2611.08288)|<span class="null">—</span>|

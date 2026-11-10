@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 30 papers, [archive 2026](./README.md)
+> 40 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**Learning Heterogeneous Tactile Representation for General Dexterous Manipulation**|Bing Han et.al.|[2611.12806](http://arxiv.org/abs/2611.12806)|**[link](https://github.com/Robbyant/lingbot-touch)**|
+|**2026-11-09**|**VLA Adaptation with Real and Simulated Data: A Case Study on Robotic Chess**|Matěj Kripner et.al.|[2611.12676](http://arxiv.org/abs/2611.12676)|<span class="null">—</span>|
+|**2026-11-09**|**Be My Eye: Learning to See Beyond a Robot's Own Perspective**|Baifu Huang et.al.|[2611.12295](http://arxiv.org/abs/2611.12295)|<span class="null">—</span>|
+|**2026-11-09**|**VLA-MOPD: On-Policy Distillation for Multi-Task VLA Policy Consolidation**|Yongxuan Lv et.al.|[2611.12286](http://arxiv.org/abs/2611.12286)|<span class="null">—</span>|
+|**2026-11-09**|**Motion Belief Action: From a Visual Scene Map to Physical Decisions**|Dibyendu Ghosh et.al.|[2611.12113](http://arxiv.org/abs/2611.12113)|<span class="null">—</span>|
+|**2026-11-09**|**Thermo-VLA: A Thermal-Aware Vision-Language-Action Model with Gated Residual Modulation for Robotic Manipulation**|Jingxuan Chen et.al.|[2611.11981](http://arxiv.org/abs/2611.11981)|<span class="null">—</span>|
+|**2026-11-09**|**Distilling Instructions into Weights: Closed-Form Edits Fix a Robot Policy's Misreading**|Ali-Adeeb Abbas et.al.|[2611.11894](http://arxiv.org/abs/2611.11894)|**[link](https://github.com/adeeb10abbas/weightsmith)**|
+|**2026-11-09**|**DeltaForge: A Post-hoc Mixture-of-Experts VLA for Multi-Domain Autonomous Driving**|Bingzhang Wang et.al.|[2611.11856](http://arxiv.org/abs/2611.11856)|<span class="null">—</span>|
+|**2026-11-09**|**Decoupled Asynchronous System for Humanoids (DASH): Latency-Agnostic Scaling of Vision-Language-Action Models for Humanoid Manipulation**|Bingzhang Wang et.al.|[2611.11854](http://arxiv.org/abs/2611.11854)|<span class="null">—</span>|
+|**2026-11-09**|**PAIR: Proprioception-Aligned Image-Ray Representations for Viewpoint-Robust Manipulation**|Sung-Wook Lee et.al.|[2611.11798](http://arxiv.org/abs/2611.11798)|<span class="null">—</span>|
 |**2026-11-05**|**OopsieRecover: Learning Transferable VLA Corrections from Semantic Interventions**|Arpit Bahety et.al.|[2611.08462](http://arxiv.org/abs/2611.08462)|<span class="null">—</span>|
 |**2026-11-05**|**Failure Prediction and Classification in Vision-Language-Action Models Via Calibrated Latent Probing**|Michal P. Podolinsky et.al.|[2611.08425](http://arxiv.org/abs/2611.08425)|<span class="null">—</span>|
 |**2026-11-05**|**T3R: Training-Free Two-Stage Token Refinement Towards Efficient and Robust VLA Models**|Mohammed Hassan et.al.|[2611.08413](http://arxiv.org/abs/2611.08413)|<span class="null">—</span>|

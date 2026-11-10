@@ -1,8 +1,17 @@
 ## World Model (2026)
-> 38 papers, [archive 2026](./README.md)
+> 47 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-09**|**DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander**|George Nehma et.al.|[2611.12824](http://arxiv.org/abs/2611.12824)|<span class="null">—</span>|
+|**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Xinrui Zu et.al.|[2611.12732](http://arxiv.org/abs/2611.12732)|<span class="null">—</span>|
+|**2026-11-09**|**Library of Hands: Fix the Hands, Not the World Model**|Hasaan Ahmad et.al.|[2611.12678](http://arxiv.org/abs/2611.12678)|<span class="null">—</span>|
+|**2026-11-09**|**TrialDesignBench: Benchmarking Language Models for Phase-I Trial Design Against Clinical Knowledge**|Yihan Hank Tang et.al.|[2611.12640](http://arxiv.org/abs/2611.12640)|**[link](https://github.com/hanktang-research/TrialDesignBench)**|
+|**2026-11-09**|**WanderBench: Can World Models Explore Dynamic Worlds from Video?**|Yuhang Chen et.al.|[2611.12557](http://arxiv.org/abs/2611.12557)|<span class="null">—</span>|
+|**2026-11-09**|**QCC-WM: Linking Macro-State Dynamics and Visual Generation via Quotient Causal Construction**|Zhizhong Fu et.al.|[2611.12353](http://arxiv.org/abs/2611.12353)|<span class="null">—</span>|
+|**2026-11-09**|**How Many Exposures Does a World Model Need? Learning Unseen Game Mechanics at Test Time**|Ku Onoda et.al.|[2611.12324](http://arxiv.org/abs/2611.12324)|**[link](https://github.com/third-intelligence/WARC)**|
+|**2026-11-09**|**Learning to Act with World Models by Valuing What Comes Next**|Chenghao Gao et.al.|[2611.12200](http://arxiv.org/abs/2611.12200)|<span class="null">—</span>|
+|**2026-11-09**|**Benchmarking language models and agents for scientific reasoning in evolving materials laboratories**|Xuyu Dong et.al.|[2611.12014](http://arxiv.org/abs/2611.12014)|<span class="null">—</span>|
 |**2026-11-05**|**Learning a patient world model for health system simulation in intensive care**|Yingtai Li et.al.|[2611.08392](http://arxiv.org/abs/2611.08392)|<span class="null">—</span>|
 |**2026-11-05**|**GPWM: Modeling the World as 3D Particle Motion**|Robert Ren et.al.|[2611.08338](http://arxiv.org/abs/2611.08338)|<span class="null">—</span>|
 |**2026-11-05**|**La-JEPA: Compact Robot Policies with Latent World Modeling**|Mateo Clémente et.al.|[2611.08156](http://arxiv.org/abs/2611.08156)|**[link](https://github.com/mt-clemente/lajepa)**|
