@@ -1,8 +1,17 @@
 ## World Model (2026)
-> 47 papers, [archive 2026](./README.md)
+> 56 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-10**|**OnlyAct: Extracting Action Representations from Foundation Models for World Models**|Runjia Li et.al.|[2611.14420](http://arxiv.org/abs/2611.14420)|<span class="null">—</span>|
+|**2026-11-10**|**Evaluating LLM-Generated World Models for Neuro-Symbolic Reasoning**|Souhaila Djaffal et.al.|[2611.14419](http://arxiv.org/abs/2611.14419)|<span class="null">—</span>|
+|**2026-11-10**|**An Energy-Based Perspective on Machine Learning**|Bo Dai et.al.|[2611.14383](http://arxiv.org/abs/2611.14383)|<span class="null">—</span>|
+|**2026-11-10**|**From Video Frames to Robot Meta-Frames: A Unified Latent Interface for World Action Models**|Guoqiang Liang et.al.|[2611.14365](http://arxiv.org/abs/2611.14365)|**[link](https://github.com/showlab/MetaWAM)**|
+|**2026-11-10**|**LaST0.5: A Generalist World Action Model with Interaction-Centric Latent Reasoning**|Xuheng Zhang et.al.|[2611.14048](http://arxiv.org/abs/2611.14048)|<span class="null">—</span>|
+|**2026-11-10**|**Few-Shot Residual Adaptation of Pretrained Latent World Models**|Jakub Suliga et.al.|[2611.13592](http://arxiv.org/abs/2611.13592)|<span class="null">—</span>|
+|**2026-11-10**|**PhyRubric: Rubric-Grounded Diagnostic Evaluation of Physical Commonsense in Text-to-Video Generation**|Huiyi Chen et.al.|[2611.13576](http://arxiv.org/abs/2611.13576)|<span class="null">—</span>|
+|**2026-11-10**|**GEMOR-GS: Global Extrinsic-calibration-refined Mapping and Online Relocalization for 3D Gaussian-Splatting SLAM**|Yuchen Yang et.al.|[2611.13528](http://arxiv.org/abs/2611.13528)|<span class="null">—</span>|
+|**2026-11-09**|**Incorporating World Models in Decision Making for Next Best View Selection in Active Sensing**|Nikita Sarawgi et.al.|[2611.13229](http://arxiv.org/abs/2611.13229)|<span class="null">—</span>|
 |**2026-11-09**|**DreamLander: A 6-DOF World Model based Reinforcement Learning Planetary Lander**|George Nehma et.al.|[2611.12824](http://arxiv.org/abs/2611.12824)|<span class="null">—</span>|
 |**2026-11-09**|**$Σ$ -LeWM: Learning World Models via S-Information for Robot Control**|Xinrui Zu et.al.|[2611.12732](http://arxiv.org/abs/2611.12732)|<span class="null">—</span>|
 |**2026-11-09**|**Library of Hands: Fix the Hands, Not the World Model**|Hasaan Ahmad et.al.|[2611.12678](http://arxiv.org/abs/2611.12678)|<span class="null">—</span>|
