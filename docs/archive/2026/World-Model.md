@@ -1,8 +1,18 @@
 ## World Model (2026)
-> 76 papers, [archive 2026](./README.md)
+> 86 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Not all world models can doubt: how training objective and architecture shape epistemic uncertainty in JEPA and RSSM world models**|Simon Baur et.al.|[2611.34830](http://arxiv.org/abs/2611.34830)|<span class="null">—</span>|
+|**2026-11-25**|**Was the Model Given the Right Action? Auditing and Repairing Action Interfaces in Navigation World Models**|Ajmain Istiak Apon et.al.|[2611.34739](http://arxiv.org/abs/2611.34739)|<span class="null">—</span>|
+|**2026-11-25**|**WorldInteract: Controllable Streaming Video Generation for Multi-Material Interactions**|Ahmed Hatem et.al.|[2611.34730](http://arxiv.org/abs/2611.34730)|<span class="null">—</span>|
+|**2026-11-25**|**ShowNow: Fine-Grained Speculative Streaming for Responsive World Models**|Yiren Song et.al.|[2611.34693](http://arxiv.org/abs/2611.34693)|**[link](https://github.com/showlab/ShowNow)**|
+|**2026-11-25**|**Do We Still Need Reinforcement Learning When We Can Read the World Model?**|Mingchao Zhang et.al.|[2611.34656](http://arxiv.org/abs/2611.34656)|<span class="null">—</span>|
+|**2026-11-25**|**Motion Beyond Pixels: Learning Future Visual Representations for Object-Centric Dynamics**|Chengzhi Zhao et.al.|[2611.34644](http://arxiv.org/abs/2611.34644)|<span class="null">—</span>|
+|**2026-11-25**|**$μ$ MPC: Microsecond-Scale Nonlinear and World Model Control from Edge to GPU via Koopman-Linearized Precompilation**|Devesh Nath et.al.|[2611.34597](http://arxiv.org/abs/2611.34597)|<span class="null">—</span>|
+|**2026-11-25**|**Long-Horizon Planning with Latent World Models via Graph Anchors**|Syed Nazmus Sakib et.al.|[2611.34509](http://arxiv.org/abs/2611.34509)|**[link](https://github.com/syed-nazmus-sakib/graph-anchors)**|
+|**2026-11-25**|**Most of the Way There: Turning a Strong Video Prior into an Action-Conditioned World Model**|Zanyi Wang et.al.|[2611.34435](http://arxiv.org/abs/2611.34435)|<span class="null">—</span>|
+|**2026-11-25**|**Can Visual World Models See Force?**|Felix Tristram et.al.|[2611.34422](http://arxiv.org/abs/2611.34422)|<span class="null">—</span>|
 |**2026-11-19**|**ScaleWorld: High-Resolution World Generation through Shared Prediction and Refinement**|Yansong Qu et.al.|[2611.26615](http://arxiv.org/abs/2611.26615)|<span class="null">—</span>|
 |**2026-11-19**|**Plan4D: Generative Plannable 4D Worlds**|Hangwei Zhang et.al.|[2611.26516](http://arxiv.org/abs/2611.26516)|<span class="null">—</span>|
 |**2026-11-19**|**Monte Carlo Pass Search for Setpieces**|Andrew Kang et.al.|[2611.26464](http://arxiv.org/abs/2611.26464)|<span class="null">—</span>|

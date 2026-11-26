@@ -1,8 +1,18 @@
 ## VLA and VLN (2026)
-> 66 papers, [archive 2026](./README.md)
+> 76 papers, [archive 2026](./README.md)
 
 | Publish Date | Title | Authors | PDF | Code |
 |:---------|:-----------------------|:---------|:------|:------|
+|**2026-11-25**|**Cairn: Object-Centric 3D Trajectory Priors for Steering Frozen VLAs**|Agelos Kratimenos et.al.|[2611.34914](http://arxiv.org/abs/2611.34914)|<span class="null">—</span>|
+|**2026-11-25**|**RePace: Reasoning about Demonstration Speedup for Faster Vision-Language-Action Policies**|Insup Lee et.al.|[2611.34864](http://arxiv.org/abs/2611.34864)|<span class="null">—</span>|
+|**2026-11-25**|**Toward Agentic Robotics: A Large-Scale Study of Harness Design for Robot-Use Agents**|Yuxiang Lai et.al.|[2611.34778](http://arxiv.org/abs/2611.34778)|<span class="null">—</span>|
+|**2026-11-25**|**A Failure-Driven Data Flywheel for Post-Training Vision-Language-Action Models**|Yuhao Luo et.al.|[2611.34698](http://arxiv.org/abs/2611.34698)|<span class="null">—</span>|
+|**2026-11-25**|**RoboEvo $^2$ : Recursive Robot Self-Improvement via Harness-Policy Co-Evolution**|Chenzhi Liu et.al.|[2611.34675](http://arxiv.org/abs/2611.34675)|**[link](https://github.com/kaiknower/RoboEvo2)**|
+|**2026-11-25**|**Nav4Manip: From Navigation to Dexterous Mobile Manipulation through Co-Evolution**|Yusen Feng et.al.|[2611.34655](http://arxiv.org/abs/2611.34655)|<span class="null">—</span>|
+|**2026-11-25**|**Commit2Drive: Perception-Grounded Language Decisions as Commitments for Trajectory Planning in Vision-Language-Action Driving Models**|Zikai Zhang et.al.|[2611.34614](http://arxiv.org/abs/2611.34614)|<span class="null">—</span>|
+|**2026-11-25**|**Compact Vision-Language Navigation in Continuous Environmentsvia On-Policy Training and Route-Bearing Output**|Reshad Ul Karim et.al.|[2611.34561](http://arxiv.org/abs/2611.34561)|<span class="null">—</span>|
+|**2026-11-25**|**M $^{2}$ AdaptVLA: Multimodal Memory-Augmented Vision-Language-Action Model with Predictive Test-Time Adaptation**|Liufan Tan et.al.|[2611.34560](http://arxiv.org/abs/2611.34560)|<span class="null">—</span>|
+|**2026-11-25**|**Dynamic Task Update Benchmark (DTU-Bench): Evaluating Runtime Task Adaptation in Robotic Manipulation**|Yanran Jiang et.al.|[2611.34538](http://arxiv.org/abs/2611.34538)|<span class="null">—</span>|
 |**2026-11-19**|**PGX: Physically Grounded Execution for Long-Horizon Humanoid Loco-Manipulation**|Kai Lu et.al.|[2611.26596](http://arxiv.org/abs/2611.26596)|<span class="null">—</span>|
 |**2026-11-19**|**PhyDEX: A Benchmark for Physical Reasoning in Vision-Language-Action Models via Dynamic Extrinsic Dexterity**|Hao Vo et.al.|[2611.26565](http://arxiv.org/abs/2611.26565)|<span class="null">—</span>|
 |**2026-11-19**|**Mind2Act World: A Diagnostic Benchmark for Embodied Mind, Physical Action, and Mind-Action Composition in Robotic Manipulation**|Yuzhi Huang et.al.|[2611.26444](http://arxiv.org/abs/2611.26444)|**[link](https://github.com/Mind2Act/Mind2Act_World)**|
